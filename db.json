@@ -1,0 +1,24 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "title": "Nike",
+      "price": 599
+    },
+    {
+      "id": 2,
+      "title": "Converse",
+      "price": 499
+    },
+    {
+      "id": 3,
+      "title": "Compass",
+      "price": 239
+    },
+    {
+      "title": "Samsung",
+      "price": "123",
+      "id": 4
+    }
+  ]
+}
